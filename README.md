@@ -1,4 +1,4 @@
-<img width="1366" alt="image" src="https://github.com/trollsoft7/waterkotte-resuemat-nodered/assets/51830290/66b011d0-34a5-427b-b881-057053761a3e"># waterkotte-resümat-nodered
+<img width="1768" alt="image" src="https://github.com/trollsoft7/waterkotte-resuemat-nodered/assets/51830290/2712a159-7bb5-41a2-ae21-9e87d5e35b1a">
 
 Hello,
 
@@ -11,6 +11,6 @@ Having Home Assistant in use, I tried to integrate it via Node-Red:
 
 The heatpump is connected via USB-Serial-Port Converter
 
-The flow reads out the Resümat every minute. The set-commands are not yet working.
+The flow reads out the Resümat every minute. Set Command are working for Heating onoff/warmwater onoff/temperature heating/temperature warmwater.
 
 Use at your own risk!
