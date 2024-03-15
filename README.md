@@ -1,4 +1,5 @@
-<img width="1768" alt="image" src="https://github.com/trollsoft7/waterkotte-resuemat-nodered/assets/51830290/2712a159-7bb5-41a2-ae21-9e87d5e35b1a">
+<img width="1295" alt="image" src="https://github.com/trollsoft7/waterkotte-resuemat-nodered/assets/51830290/323fe60a-1a9b-4855-8921-15712c234661">
+
 
 Hello,
 
