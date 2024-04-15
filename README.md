@@ -15,6 +15,8 @@ node-red-contrib-buffer-parser
 
 node-red-node-serialport
 
+node-red-show-value
+
 
 The heatpump is connected via USB-Serial-Port Converter
 
